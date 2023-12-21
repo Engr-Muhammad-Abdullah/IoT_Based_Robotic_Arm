@@ -1,0 +1,6 @@
+Robotic Arms have been used by industries to perform complicated and tedious jobs ever since its introduction in 1962. From assembly lines to paint shops these robotic arms are used extensively in Automotive Manufacturing Industries. Recently with the advancement of technology and advent of Internet of thins (IoT), Robotic arms have also started to plunge in the Medical Applications allowing doctors to perform surgeries remotely by controlling the robotic arm wirelessly. In this project we will build an IoT based Wireless Robotic Arm using NodeMCU.
+
+The 3D printed robotic arm position can be controlled from any Internet enabled smart phone by using an application called Blynk which is available for free for both Android and IOS users. We have previously used Blynk with NodeMCU and with Raspberry Pi to control GPIO connected appliances.
+
+3D printing your Robotic ARM
+As mentioned earlier the robotic arm used in this project is 3D printed, if you do not have a printer you can used any Robotic Arm or build a crude one using cardboards. The 3D printed Robotic Arm design is taken from this link on Thingiverse. This link also has complete detailed video showing the procedure of making and assembling this 3D printed Robotic Arm.
